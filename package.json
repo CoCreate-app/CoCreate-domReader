@@ -1,5 +1,5 @@
 {
-  "name": "CoCreate-action",
+  "name": "CoCreate-domReader",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoCreate-app/CoCreate-action.git"
+    "url": "git+https://github.com/CoCreate-app/CoCreate-domReader.git"
   },
   "author": "Frank Pagan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CoCreate-app/CoCreate-action/issues"
+    "url": "https://github.com/CoCreate-app/CoCreate-domReader/issues"
   },
-  "homepage": "https://github.com/CoCreate-app/CoCreate-action#readme"
+  "homepage": "https://github.com/CoCreate-app/CoCreate-domReader#readme"
 }
