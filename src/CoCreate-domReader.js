@@ -145,6 +145,6 @@ function register(domContext, frame) {
 
 init();
 
-const CoCreateDomReader  = {register, domContext}; 
-export default CoCreateDomReader;
+const domReader  = {register, domContext}; 
+export default domReader;
 

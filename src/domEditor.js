@@ -6,7 +6,7 @@
 
 
 
-	CoCreateSocket.listen('domEditor', function(data) {
+	CoCreate.socket.listen('domEditor', function(data) {
 		console.log('raw object recieved: ', data.target, data.value[1], window.location.pathname)
 		// resolving the element_id to real element in the clinet
 		if (data.target) {
